@@ -1,3 +1,11 @@
+@import "{{ minima }}";
+
 body {
+  background-color: ##ede8df;
+}
+
+.site-header,
+.page-content,
+.site-footer {
   background-color: ##ede8df;
 }
