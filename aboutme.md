@@ -1,5 +1,5 @@
 ---
-title: ""
+[title: ""]
 ---
 
 ## Diana Infante-Vargas (she/her)
