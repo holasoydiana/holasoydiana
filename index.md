@@ -1,6 +1,3 @@
----
-title: ""
----
 
 ## Diana Infante-Vargas 
 
